@@ -1,0 +1,2 @@
+[2019-03-27 12:17:03] slim-app.INFO: Find by username : korapotu@gmail.com Password : 1234 [] {"uid":"906d56f"}
+[2019-03-27 12:17:03] slim-app.INFO: {"id":1,"username":"korapotu@gmail.com","password":"1234","firstname":"\u0e01\u0e23\u0e1e\u0e08\u0e19\u0e4c","lastname":"\u0e2d\u0e38\u0e42\u0e06\u0e29\u0e01\u0e34\u0e08","position":"IT","org":"IT","tel":"0917196810","email":"korapotu@gmail.com","role":1,"actives":"Y","create_date":"2018-12-26 03:11:47","update_date":"2018-12-27 17:47:20"} [] {"uid":"906d56f"}
